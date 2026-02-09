@@ -1,8 +1,23 @@
-- 👋 Hello there! My name is Yifei Shao. I got my undergraduate degree from University of Electronic Science and Technology of China. I am currently pursuing my graduate studies in the Computer Science and Engineering (CSE) program at the University of California, San Diego (UCSD).
-- 👀 I’m interested in artificial intelligence and machine Learning, which I find to be incredibly fascinating and full of potential.
-- 💞️ I have had the opportunity to engage in research related to Graph Neural Networks (GNNs), which has been a rewarding experience. Also, I've contributed to the development of two open-source libraries for GNNs, which are available for others in the field to use and build upon. They are [GammaGL](https://github.com/BUPT-GAMMA/GammaGL) and [OpenHgnn](https://github.com/BUPT-GAMMA/OpenHGNN).
-- 📫 If you'd like to get in touch with me, feel free to send an email to yis088@ucsd.edu. I'm always open to discussing new ideas, collaborating on projects, or simply exchanging thoughts on the latest trends in our field. 
+## 👋 Hi, I'm Yifei Shao
 
+I am a **graduate student in Computer Science and Engineering (CSE)** at the  
+**University of California, San Diego (UCSD)**. I received my **B.S. degree from the University of Electronic Science and Technology of China (UESTC)**.
+
+---
+
+## 👀 Research Interests
+
+I am deeply interested in **Artificial Intelligence and Machine Learning**, with a particular focus on:
+
+- Large Language Models (LLMs)
+- Vision-Language Models (VLMs)
+- Unified / Multimodal Models
+- Reasoning and Planning
+- ML Systems for efficient training and inference
+
+I am especially excited about building **unified models** that integrate perception, reasoning, and decision-making across multiple modalities.
+
+---
 
 
 <!---
