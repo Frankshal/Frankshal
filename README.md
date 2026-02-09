@@ -1,23 +1,16 @@
-## 👋 Hi, I'm Yifei Shao
+# 👋 Hi, I'm Yifei Shao
 
-I am a **graduate student in Computer Science and Engineering (CSE)** at the  
-**University of California, San Diego (UCSD)**. I received my **B.S. degree from the University of Electronic Science and Technology of China (UESTC)**.
+🎓 M.S. in **Computer Science and Engineering (CSE)** @ **UCSD**  
+🎓 B.S. @ University of Electronic Science and Technology of China (UESTC)
 
----
+👀 Interested in **Artificial Intelligence & Machine Learning**, with a focus on  
+**Unified / Multimodal Models**, **LLMs**, **VLMs**, and **Reasoning & Planning**.
 
-## 👀 Research Interests
+🛠️ PyTorch · HuggingFace · vLLM · Diffusion Models · Reinforcement Learning · ML Systems
 
-I am deeply interested in **Artificial Intelligence and Machine Learning**, with a particular focus on:
+💞️ Open to research collaboration, idea exchange, and paper discussions.
 
-- Large Language Models (LLMs)
-- Vision-Language Models (VLMs)
-- Unified / Multimodal Models
-- Reasoning and Planning
-- ML Systems for efficient training and inference
-
-I am especially excited about building **unified models** that integrate perception, reasoning, and decision-making across multiple modalities.
-
----
+📫 **yis088@ucsd.edu**
 
 
 <!---
